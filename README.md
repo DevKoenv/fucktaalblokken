@@ -2,6 +2,10 @@
 
 The Taalblokken Cheat Application is a Python script designed to facilitate the downloading of questions from the digital software "Taalblokken". It allows users to conveniently access and save all the questions and answers from Taalblokken 
 
+> ## Disclaimer
+> 
+> Please note that the Taalblokken Cheat Application is not an officially endorsed or > supported software by Taalblokken. It is an independent project created for educational purposes only. The application is not intended to encourage or promote cheating, but rather to provide a tool for convenient access and review of Taalblokken questions.
+
 ## Features
 
 - Download all questions from Taalblokken
@@ -23,6 +27,8 @@ The Taalblokken Cheat Application is a Python script designed to facilitate the 
 - [ ] Input questions
 
 ## Getting Started
+ 
+> **Note: The complete source code of the Taalblokken Cheat Application will not be openly available for reasons such as avoiding immediate patching by Taalblokken or preventing students from claiming it as their own. However, selected portions of the code will be made available for transparency and educational purposes.**
 
 ### Prerequisites
 
