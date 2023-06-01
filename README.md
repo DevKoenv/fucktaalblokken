@@ -22,7 +22,7 @@ The Taalblokken Cheat Application is a Python script designed to facilitate the 
 - [X] Choice questions (Text)
 - [X] Multiple-choice
 - [X] Connector questions
-- [ ] Choice questions (Images)
+- [X] Choice questions (Images)
 - [ ] Drag questions
 - [ ] Input questions
 
